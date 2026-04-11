@@ -1,2 +1,2 @@
-# unibatt
-The Public Repo for all Technical Documentation related to UNIBATT.
+# OPENBATT
+The Public Repo for all Technical Documentation related to OPENBATT.
